@@ -6,10 +6,10 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-color: blue;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: COPPERPLATE, Papyrus, fantasy;
   font-size: 100%;
 }
 
@@ -25,8 +25,8 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Papyrus', fantasy;
+  color: White;
 }
 
 h1 {
@@ -40,7 +40,8 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Lucida Handwriting', cursive;
+  color: Red;
   font-size: 1.5em;
   margin-top: .5em;
 }
@@ -52,7 +53,7 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 15px;
 }
 
 a {
